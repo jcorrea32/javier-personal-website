@@ -1,5 +1,7 @@
 layout: sidebar
 style: light
+theme: minima
+
 
 plugins:
   - jekyll-octicons
